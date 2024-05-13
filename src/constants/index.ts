@@ -8,13 +8,13 @@ export const NAV_LINKS = [
 ];
 
 export const HERO = {
-  title: "Discover Your Ideal Home here!",
+  title: "Discover Your Ideal Home Here!",
   description:
     "Discover your dream home with our real estate services. Whether you're looking to buy, sell, or rent, we're here to help.",
 };
 
 export const HOW_IT_WORKS = {
-  title: "How it works",
+  title: "How it Works",
   content:
     "Finding your dream property is easy with our step-by-step process. First, browse through our extensive listings of properties, including apartments, houses, and commercial spaces. Once you find a property that interests you, schedule a viewing with one of our experienced agents. During the viewing, our agent will provide you with all the necessary information about the property and answer any questions you may have. If you decide to move forward, our team will guide you through the rental or purchasing process, ensuring a smooth and hassle-free experience. With our expertise and dedication to customer satisfaction, finding your ideal property has never been easier.",
   steps: [
